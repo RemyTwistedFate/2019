@@ -7,4 +7,6 @@ for i in range(1,num):
 
 if sum == num:
     print ('this is Perfect number')
+else:
+    print ('this is not Perfect number')
 
